@@ -1,2 +1,3 @@
 # HelloWorld
-Just another respository
+Hi FreshBirdy!
+Today is my first day for github!
